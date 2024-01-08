@@ -1,0 +1,17 @@
+1. Introduction
+This report is about the "Cash Register System" program. We have used the C language to code this
+program. The program is about making the whole process of taking orders and payment easy for the
+cashier. The program will present the menu to the cashier. The cashier will be able to select the
+products by pressing the corresponding numbers on the menu list. When the order is complete, the
+computer will generate a bill that includes GST. The program then allows the cashier to enter the
+amount paid by the customer. The application will then compute the amount of the return and display
+it.
+
+2. Scope of Project
+This program can be used in many businesses such as restaurants, small shops, cafes, etc. The
+program is very easy to make and can be modified with buttons and GUI.
+
+3. Conclusion
+This program is helpful in many businesses. For example, in many restaurants, cashiers have to deal
+with a long line of customers. They have to take orders and remember them. With the help of this
+program, they can take orders fast, and the chances of error will be less.
